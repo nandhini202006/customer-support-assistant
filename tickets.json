@@ -1,0 +1,62 @@
+[
+    {
+        "ticket_id": "TICKET-20260905153517220120",
+        "customer_id": "CUST001",
+        "customer_name": "Arun Kumar",
+        "message": "My internet is not working",
+        "response": "Hello Arun Kumar,\n\nI understand that your internet is not working. Please try the following troubleshooting steps:\n\n1. Check the router power and make sure all cables are connected properly.\n2. Check the status of the WAN/Internet light on your router.\n3. Restart the router.\n\nIf the Internet light remains red or off after trying these steps, please let us know so we can provide further support.",
+        "decision": "RESOLVE",
+        "status": "CLOSED",
+        "created_at": "2026-09-05T15:35:17.220155"
+    },
+    {
+        "ticket_id": "TICKET-20260905153731436520",
+        "customer_id": "CUST002",
+        "customer_name": "Priya Sharma",
+        "message": "I have an outstanding bill. How can I pay it?",
+        "decision": "ESCALATE",
+        "status": "OPEN",
+        "reason": "Issue requires human support. Decision: PROCESSING",
+        "created_at": "2026-09-05T15:37:31.436570"
+    },
+    {
+        "ticket_id": "TICKET-20260905153738902870",
+        "customer_id": "CUST002",
+        "customer_name": "Priya Sharma",
+        "message": "I have an outstanding bill. How can I pay it?",
+        "decision": "ESCALATE",
+        "status": "OPEN",
+        "reason": "Issue requires human support. Decision: ESCALATED",
+        "created_at": "2026-09-05T15:37:38.902889"
+    },
+    {
+        "ticket_id": "TICKET-20260905153745446534",
+        "customer_id": "CUST002",
+        "customer_name": "Priya Sharma",
+        "message": "I have an outstanding bill. How can I pay it?",
+        "decision": "ESCALATE",
+        "status": "OPEN",
+        "reason": "Issue requires human support. Decision: ESCALATED",
+        "created_at": "2026-09-05T15:37:45.446570"
+    },
+    {
+        "ticket_id": "TICKET-20260905154446723176",
+        "customer_id": "CUST001",
+        "customer_name": "Arun Kumar",
+        "message": "My internet is not working",
+        "response": "Hello Arun Kumar,\n\nI am sorry to hear that your internet is not working. Please try the following troubleshooting steps to resolve the issue:\n\n1. Check that the router has power and all cables are securely connected.\n2. Check the status of the WAN/Internet light on your router.\n3. Restart your router.\n\nIf the Internet light remains red or off after restarting, please let us know so further support can be provided.",
+        "decision": "RESOLVE",
+        "status": "CLOSED",
+        "created_at": "2026-09-05T15:44:46.723228"
+    },
+    {
+        "ticket_id": "TICKET-20260905160655927928",
+        "customer_id": "CUST001",
+        "customer_name": "Arun Kumar",
+        "message": "My internet is not working",
+        "response": "Hello Arun,\n\nI am sorry to hear that your internet is not working. \n\nPlease try the following troubleshooting steps:\n1. Check that the router power and all cables are properly connected.\n2. Check the status of the WAN/Internet light on your router.\n3. Restart the router.\n\nIf the Internet light remains red or off after restarting, please let us know so we can provide further support.",
+        "decision": "RESOLVE",
+        "status": "CLOSED",
+        "created_at": "2026-09-05T16:06:55.927974"
+    }
+]

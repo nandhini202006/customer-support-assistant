@@ -1,0 +1,53 @@
+[
+    {
+        "article_id": "KB-INT-001",
+        "title": "Internet Connection Troubleshooting",
+        "category": "Internet",
+        "keywords": [
+            "internet",
+            "wifi",
+            "connection",
+            "not working",
+            "network"
+        ],
+        "content": "Check the router power, WAN/Internet light, cables, and restart the router. If the Internet light remains red or off, further support may be required."
+    },
+    {
+        "article_id": "KB-BILL-001",
+        "title": "Billing and Outstanding Payment",
+        "category": "Billing",
+        "keywords": [
+            "bill",
+            "billing",
+            "payment",
+            "outstanding",
+            "charged"
+        ],
+        "content": "Check the customer's billing status and payment history. If an outstanding amount exists, explain the amount due and available payment options."
+    },
+    {
+        "article_id": "KB-ACC-001",
+        "title": "Account Access Troubleshooting",
+        "category": "Account",
+        "keywords": [
+            "login",
+            "password",
+            "account",
+            "access",
+            "locked"
+        ],
+        "content": "Verify the customer's account status. Guide the customer through password reset or account recovery steps when appropriate."
+    },
+    {
+        "article_id": "KB-TECH-001",
+        "title": "Slow Internet Troubleshooting",
+        "category": "Internet",
+        "keywords": [
+            "slow",
+            "speed",
+            "internet speed",
+            "slow internet"
+        ],
+        "content": "Check the customer's plan, router status, connected devices, and network conditions. Run a speed test if available."
+    }
+]
